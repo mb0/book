@@ -17,7 +17,7 @@ system rather than a collection of version controlled text files. My wish would 
 node with a short macro-overview and introduction where people can drill down into the micro-details
 and analogies.
 
- * Your Mission
+ * [Your Mission](src/01_Mission.md)
  * How to Wake Up
  * Waking Up
  * How Reality Works
