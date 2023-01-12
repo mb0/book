@@ -35,7 +35,10 @@ Everybody is invited to discuss, suggest and correct spelling errors.
 License
 -------
 
-Copyright 2023 Martin Schnabel
+Copyright (c) 2023 Martin Schnabel. All rights reserved.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/).
+
+Program source code and documentation in this project is governed by a BSD-style license that can
+found in the LICENSE file.
