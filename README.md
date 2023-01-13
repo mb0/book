@@ -4,18 +4,13 @@ Book
 
 Hello You!
 
-My name is not really important, but I am a Human and are called Martin. Through complicated life
+My name is not really important, but I am the human author called Martin. Through complicated life
 circumstance I woke up to a new reality right here on earth as many other before and after me.
 
-I currently channel my higher self and want to share some insights that came up since I woke up.
+The author currently channels a higher self and want to share some insights that came up.
 
 Overview
 --------
-
-I am not yet sure how to structure this and have an intuition that we need a hypertext linked
-system rather than a collection of version controlled text files. My wish would be to have a root
-node with a short macro-overview and introduction where people can drill down into the micro-details
-and analogies.
 
  * [Your Mission](src/01_Mission.md)
  * [How to Wake Up](src/02_Wakeup.md)
