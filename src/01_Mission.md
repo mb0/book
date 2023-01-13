@@ -21,6 +21,9 @@ Both paths will lead to transcendence. But this is very important: the default o
 try the first steps. It is human to go astray and be lost. It will only a detour in hindsight, with
 valuable experiences along the way, as long as keep moving and find your own way out.
 
+![Wide and narrow
+path](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Der_breite_und_der_schmale_Weg_2008.jpg/381px-Der_breite_und_der_schmale_Weg_2008.jpg)
+
 While the self centered path seems comfortable, sweet and enticing. It is filled with other self
 serving people. You may find joys, thrills and satisfactions, but not true love and happiness.
 The narrow path may look harder on the first glance, but your legs and feet will soon adjust.
@@ -35,4 +38,4 @@ everyone to discover the meaning behind those words and apply them to their own 
 
 [^1]: Wikipedia article https://en.wikipedia.org/wiki/Price_equation
 [^2]: Radiolab section https://www.youtube.com/watch?v=OKRV0UX9dBM&t=230s
-[^3]: The wide and the narrow path https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Der_breite_und_der_schmale_Weg_2008.jpg/1627px-Der_breite_und_der_schmale_Weg_2008.jpg
+[^3]: The wide and the narrow path https://de.wikipedia.org/wiki/Datei:Der_breite_und_der_schmale_Weg_2008.jpg
