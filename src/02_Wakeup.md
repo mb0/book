@@ -26,7 +26,8 @@ self reflection while completing[^5] a computer game saga called `Binding of Isa
 Even though it is a great game, it certainly is not right for everybody. The important takeaway here
 is that opportunities to progress on your path can be found everywhere you look.
 
-![The Treachery of Images "This is not a pipe"](https://en.wikipedia.org/wiki/The_Treachery_of_Images#/media/File:MagrittePipe.jpg)
+![The Treachery of Images "This is not a
+pipe"](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
 
 You have probably seen this picture[^7] before. But what does it mean to really understand it? Have
 you read about German Idealism[^8], Jungian archetypes[^9] or heard about the arguments that our
