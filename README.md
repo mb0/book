@@ -15,9 +15,9 @@ Overview
  * [Your Mission](src/01_Mission.md)
  * [How to Wake Up](src/02_Wakeup.md)
  * [How Reality Works](src/03_Reality.md)
- * How to Save the World
- * What is God
- * Action Plan
+ * [Saving Worlds](src/04_Worlds.md)
+ * [Action Plan](src/05_Plan.md)
+ * [What is God](src/06_God.md)
 
 Contribute
 ----------
@@ -30,10 +30,10 @@ Everybody is invited to discuss, suggest and correct spelling errors.
 License
 -------
 
-Copyright (c) 2023 Martin Schnabel. All rights reserved.
+Copyright (c) 2023 Martin Schnabel.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
+Program source code and documentation in this project will be governed by a BSD-style license that
+will be found in the LICENSE file.
+
+This work content is licensed under a [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/).
-
-Program source code and documentation in this project is governed by a BSD-style license that can
-found in the LICENSE file.
