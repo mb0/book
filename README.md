@@ -19,8 +19,7 @@ and analogies.
 
  * [Your Mission](src/01_Mission.md)
  * [How to Wake Up](src/02_Wakeup.md)
- * Waking Up
- * How Reality Works
+ * [How Reality Works](src/03_Reality.md)
  * What is God
  * Positive Outlook
 
