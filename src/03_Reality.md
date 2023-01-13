@@ -2,7 +2,7 @@ How Reality Works
 =================
 
 It is not not possible to explain everything (as will soon become clear), but we can contemplate our
-immediate, personal, subjective experience or what we call reality this chapter.
+immediate, personal, subjective experience or what we call in reality this chapter.
 
 > "I think therefor I am" &mdash; René Descartes 1637[^1]
 
@@ -11,7 +11,7 @@ child after a transformative dream experience. After asking the big sister, how 
 what we see is not also a dream, when dreams can be so very different and still feel real, she made
 it clear that thoughts like this are for egoists. It rightfully offends other conscious beings if we
 treat them like less. As with most things, consciousness is a spectrum. Bacteria, trees, squids and
-dogs are all conscious to some degree.
+dogs and we are all conscious to some degree.
 
 What makes your reality more real than your dreams? You would probably say that things happening in
 dreams have no effect on the real world. But is this really true? Did you ever understand something
@@ -37,6 +37,8 @@ example is this well recorded [university lecture](https://www.youtube.com/watch
 
 There are lots of plays, songs and movies alluding to the same concept. The author certainly watched
 movies like The Cube('97)[^6], The Truman Show('98)[^7], The Matrix('99)[^8].
+
+TODO: point out the important details often missed and their implications and how to change reality
 
 [^1]: cogito, ergo sum https://en.wikipedia.org/wiki/Cogito,_ergo_sum
 [^2]: Solipsism https://en.wikipedia.org/wiki/Solipsism

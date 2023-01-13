@@ -20,8 +20,9 @@ and analogies.
  * [Your Mission](src/01_Mission.md)
  * [How to Wake Up](src/02_Wakeup.md)
  * [How Reality Works](src/03_Reality.md)
+ * How to Save the World
  * What is God
- * Positive Outlook
+ * Action Plan
 
 Contribute
 ----------

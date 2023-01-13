@@ -12,11 +12,13 @@ practiced as a form of art if done consciously.
 
 You can find truth and wisdom in the most beautiful but also in the hateful and profane things. You
 can also grok these ideas intellectually and arrive at something like the Price equation[^1][^2].
-The equation shows that there are to extremes in biological evolution. One extreme is the selfless
-part of a collective swarm mind. The other extreme is a dominating individual that commands other
-conscious beings.
+The equation shows that there are two successful strategies in biological evolution. One extreme is
+the selfless part of a collective or hive mind like sponges or ant colonies. The other extreme is a
+dominating group or individual that commands other conscious beings like predators usually do. We
+can observe the astounding beauty of ecologies arising between these extremes. The creative
+complexity of nature does exist, not despite of the tension of this duality, but because of it.
 
-So the whole truth is that earth is a scenario for you to decide which path[^3] to take in a way.
+So the whole truth, in a way, is that earth is a scenario for you to decide which path[^3] to take.
 Both paths will lead to transcendence. But this is very important: the default option is not to even
 try the first steps. It is human to go astray and be lost. It will only a detour in hindsight, with
 valuable experiences along the way, as long as keep moving and find your own way out.
