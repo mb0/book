@@ -18,7 +18,7 @@ node with a short macro-overview and introduction where people can drill down in
 and analogies.
 
  * [Your Mission](src/01_Mission.md)
- * How to Wake Up
+ * [How to Wake Up](src/02_Wakeup.md)
  * Waking Up
  * How Reality Works
  * What is God
