@@ -1,26 +1,22 @@
 Action Plan
 ===========
 
-TODO: Meh, but what can **I** do?
+With all the newfound insights, what can we do to save worlds?
 
-The Choice
-----------
+You need to find your way before you can help others find theirs. Start to live consciously and
+choose your goals and principles. You must decide the path for your own journey. I urge you to [wake
+up](./02_Wakeup.md), but even doubling down on self-serving goals is better than doing nothing.
 
-TODO: It is always up to you for a reason.
+Waking up is gradual process. Strive to be kind and forgiving to others and yourself. Get to know
+your self, practice and test your abilities. By walking the path prosperously you can already be an
+inspirations to others. You clear the path through an overgrown thicket where others can follow.
 
-First steps
------------
+Further along the path you will be in a position to help more effectively. It is easier to extend a
+helping hand or throw a life line from higher ground. If you find yourself in the company of other
+waking individuals you can think about coordinating.
 
-TODO: be conscious of yourself and your environment, mind-body-soul trinity yadda
-TODO: strive to be kind and forgiving to others and yourself, you-other-whole trinity yadda yadda
-TODO: learn to read your intuition and test your capabilities
 
-Offer help
-----------
+Organize
+--------
 
-TODO: by walking the path prosperously you can already be an inspirations to others, bushwhack a
-      through an overgrown thicket to open up a path to a glade with a fresh water source.
-TODO: in a position to help, easier from higher ground to extend a helping hand or throw a life line
 TODO: scopes communal, local, regional, national, international, extranational, intergalactic
-
-
