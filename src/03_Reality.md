@@ -14,12 +14,15 @@ treat them like less. As with most things, consciousness is a spectrum. Bacteria
 dogs and we are all conscious to some degree.
 
 What makes your reality more real than your dreams? You would probably say that things happening in
-dreams have no effect on the real world. But is this really true? Did you ever understand something
-in your sleep after a long night of studying? Mendeleev got the insights for the periodic table[^3]
-and Paul McCartney composed the song Yesterday[^4] while dreaming.
+dreams have no lasting effect outside the dream. But is this really true? Did you ever understand
+something in your sleep after a long night of studying? Mendeleev got the insights for the periodic
+table[^3] and Paul McCartney composed the song Yesterday[^4] while dreaming. Many other thoughts
+were dreamt that have a lasting effect outside of dreams.
 
-TODO: explore dreams in more detail, stress scenarios, shared dream experiences, precognition, lucid
-dreaming.
+Many dreams are of stress scenarios, to revisit or prepare situations in your lives; to process
+experiences and prepare future decisions. Sometimes dreams can be precognizant[^5] and revisit
+future events. Sometimes dreams are shared with a close friend or total stranger. Some people have
+learned to take conscious control of their dreams[^6].
 
 TODO: explore optical illusions, gorilla experiment, Dan Brown, but also the Miracle of the Sun,
 levitation of monks and saints.
@@ -28,7 +31,7 @@ TODO: explore mind altering rituals, traumas, psychoactive substances, autism sp
 
 TODO: consensus reality, shared space-time symbolism as a framework for collaboration
 
-Let us continue with this clip about Plato's cave[^5].
+Let us continue with this clip about Plato's cave[^7].
 
 [![Plato's Cave scene from the TV Show Legion](https://img.youtube.com/vi/bHj2slKBF98/0.jpg)](https://www.youtube.com/watch?v=bHj2slKBF98)
 
@@ -36,7 +39,7 @@ There are many books, courses and videos that explain the allegory in more detai
 example is this well recorded [university lecture](https://www.youtube.com/watch?v=aBPd7getIcM).
 
 There are lots of plays, songs and movies alluding to the same concept. The author certainly watched
-movies like The Cube('97)[^6], The Truman Show('98)[^7], The Matrix('99)[^8].
+movies like The Cube('97)[^8], The Truman Show('98)[^9], The Matrix('99)[^10].
 
 TODO: point out the important details often missed and their implications and how to change reality
 
@@ -44,7 +47,9 @@ TODO: point out the important details often missed and their implications and ho
 [^2]: Solipsism https://en.wikipedia.org/wiki/Solipsism
 [^3]: I saw in a dream a table where all elements fell into place as required. &mdash; Dmitri Mendeleev (ca. 1868) https://en.wikipedia.org/wiki/Dmitri_Mendeleev#Periodic_table
 [^4]: Yesterday Beatles (1965) https://en.wikipedia.org/wiki/Yesterday_(Beatles_song)
-[^5]: Plato's allegory of the cave https://en.wikipedia.org/wiki/Allegory_of_the_cave
-[^6]: The Cube (1997) https://www.imdb.com/title/tt0123755/
-[^7]: The Truman Show (1998) https://www.imdb.com/title/tt0120382/
-[^8]: The Matrix (1999) https://www.imdb.com/title/tt0133093/
+[^5]: https://en.wikipedia.org/wiki/Precognition
+[^6]: https://en.wikipedia.org/wiki/Lucid_dream
+[^7]: Plato's allegory of the cave https://en.wikipedia.org/wiki/Allegory_of_the_cave
+[^8]: The Cube (1997) https://www.imdb.com/title/tt0123755/
+[^9]: The Truman Show (1998) https://www.imdb.com/title/tt0120382/
+[^10]: The Matrix (1999) https://www.imdb.com/title/tt0133093/
