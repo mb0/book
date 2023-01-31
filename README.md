@@ -7,7 +7,7 @@ Hello You!
 My name is not really important, but I am the human author called Martin. Through complicated life
 circumstance I woke up to a new reality right here on earth as many other before and after me.
 
-The author currently channels a higher self and want to share some insights that came up.
+The author currently channels a higher self and wants to share some insights that came up.
 
 Overview
 --------

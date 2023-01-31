@@ -17,15 +17,15 @@ saints[^1]. Or we ridicule, oppress[^2] or kill[^3][^4] them. The message is oft
 plausible, but dangerous nonetheless.
 
 Other people see the potential of waking consciousness and try to walk the same path as someone,
-that has previously found a way. Using a life story as recipe or template in that way can be
-helpful, but everyone still needs to decide their own fate with each step. Delegating decision to
-scripture, custom or other people, without understanding the reasons, is often counterproductive.
+that has previously found a way. Using a life story as recipe or template can be helpful, but
+everyone still needs to decide their own fate with each step. Delegating decision to scripture,
+custom or other people, without understanding the reasons, is often counterproductive.
 
 It is good to try to understand the stories in holy books of various religions, as well as studying
 sciences and practicing creativity. But the author himself learned life lessons, especially patience
 while completing[^5] a rogue-lite[^6] computer game saga called `Binding of Isaac: Rebirth`[^7].
-Even though it is a great game, it certainly is not right for everybody. The important takeaway here
-is that opportunities to progress on your path can be found everywhere you look.
+Even though it is a great game, it certainly is not for everybody. The important takeaway here
+is that opportunities to progress on your path can be found everywhere if you look.
 
 Reflection and intuition are the most resourceful guides on your path through life. Make good use of
 them! But beware that you have to calm your ego, in order to listen to your heart. Various cultures

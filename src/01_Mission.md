@@ -20,22 +20,21 @@ complexity of nature does exist, not despite of the tension of this duality, but
 
 So the whole truth, in a way, is that earth is a scenario for you to decide which path[^3] to take.
 Both paths will lead to transcendence. But this is very important: the default option is not to even
-try the first steps. It is human to go astray and be lost. It will only a detour in hindsight, with
-valuable experiences along the way, as long as keep moving and find your own way out.
+try the first steps. It is human to go astray and be lost. It will only be a detour in hindsight,
+with valuable experiences along the way, as long as you keep moving and find your own way out.
 
-![Wide and narrow
-path](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Der_breite_und_der_schmale_Weg_2008.jpg/381px-Der_breite_und_der_schmale_Weg_2008.jpg)
+![Wide and narrow path](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Der_breite_und_der_schmale_Weg_2008.jpg/381px-Der_breite_und_der_schmale_Weg_2008.jpg)
 
 While the self centered path seems comfortable, sweet and enticing. It is filled with other self
 serving people. You may find joys, thrills and satisfactions, but not true love and happiness.
-The narrow path may look harder on the first glance, but your legs and feet will soon adjust.
-Whenever you falter and stumble kind strangers will help you on your way. And if we keep using this
-picture, we can see bridges connecting both paths into the far distance, that is ultimately bridged
-by a colorful rainbow of light.
+The narrow path may look harder on the first glance, but you will soon grow stronger to meet the
+challenges. Whenever you falter and stumble kind strangers will help you on your way. And if we keep
+using this picture, we can see bridges connecting both paths into the far distance, that is
+ultimately bridged by a colorful rainbow of light.
 
 This all sounds so corny, kitchy, trivial, worn-out, trite and banal. Like the mantras of thousands
 of years of prayers and songs that end up as empty symbols on our kitchen magnets. The challenge for
-everyone to discover the meaning behind those words and apply them to their own lives.
+everyone is to discover the meaning behind those words and apply them to their own lives.
 
 
 [^1]: Wikipedia article https://en.wikipedia.org/wiki/Price_equation
